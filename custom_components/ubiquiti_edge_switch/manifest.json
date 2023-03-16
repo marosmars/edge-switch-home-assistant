@@ -1,0 +1,29 @@
+{
+  "domain": "ubiquiti_edge_switch",
+  "name": "Ubiquiti Edge Switch",
+  "config_flow": false,
+  "documentation": "https://github.com/marosmars/edge-switch-home-assistant/blob/main/README.md",
+  "codeowners": [
+    "marosmars"
+  ],
+  "requirements": [
+    "requests"
+  ],
+  "version": "0.1.0",
+  "state": "stable",
+  "category": "switch",
+  "logo": "https://github.com/marosmars/edge-switch-home-assistant/blob/main/logo.png",
+  "integration_manifest": {
+    "config_flow": false,
+    "domain": "ubiquiti_edge_switch",
+    "documentation": "https://github.com/marosmars/edge-switch-home-assistant/blob/main/README.md",
+    "issue_tracker": "https://github.com/marosmars/edge-switch-home-assistant/issues",
+    "quality_scale": "gold",
+    "requirements": [
+      "requests"
+    ],
+    "version": "0.1.0",
+    "state": "stable"
+  }
+}
+
